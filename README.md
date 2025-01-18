@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzat-ugv&label=Profile%20views&color=0e75b6&style=flat" alt="sazzat-ugv" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sazzatisla54793" target="blank"><img src="https://img.shields.io/twitter/follow/sazzatisla54793?logo=twitter&style=for-the-badge" alt="sazzatisla54793" /></a> </p>
-
-- 🌱 I’m currently learning **Laravel, Vue Js**
-
 - 👯 I’m looking to collaborate on **Github**
 
 - 💬 Ask me about **Laravel**
@@ -18,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sazzatisla54793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazzatisla54793" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sazzat181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzat181" height="30" width="40" /></a>
 <a href="https://fb.com/artless.sazzat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="artless.sazzat" height="30" width="40" /></a>
 </p>
