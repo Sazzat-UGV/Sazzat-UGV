@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **I think I am Happy 😊**
 
-- 👨‍💻 All of my projects are available at **[https://thisissazzat.com](https://thisissazzat.com)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Sazzat-UGV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sazzat-UGV" height="30" width="40" /></a>
