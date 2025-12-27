@@ -91,7 +91,7 @@
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzat-ugv&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width:49%;height:auto;"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sazzat-UGV" alt="GitHub Streak" width="49%" />
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Sazzat-UGV" alt="GitHub Streak" width="49%" /> -->
 </div>
 
 
