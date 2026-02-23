@@ -88,10 +88,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="45"/>
 </div>
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzat-ugv&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width:49%;height:auto;"/>
-  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Sazzat-UGV" alt="GitHub Streak" width="49%" /> -->
-</div>
+
 
 
